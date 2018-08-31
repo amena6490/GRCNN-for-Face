@@ -22,7 +22,7 @@ The training settings are written in train_mscele_vgg_combined.sh. The training 
 
 # Inference
 In this experiment, we only use MTCNN for face detection and we do not perform face alignment.
-We only evaluate GRCNN on lfw datasets and it achieve 99.82 % accuracy. The pre-trained model will be relased soon.
+We evaluate GRCNN on lfw datasets and it achieve 99.82 % accuracy. The pre-trained model will be relased soon.
 
 # references
 
